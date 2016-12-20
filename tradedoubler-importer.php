@@ -37,4 +37,6 @@ foreach ($products as $key => $product) {
 	
 	wp_insert_post($post);
 }
+
+// TODO: Make a nice GUI
 ?>
